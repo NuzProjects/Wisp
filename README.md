@@ -1,6 +1,8 @@
 ## Wisp, a fork of [wisp-js](https://github.com/MercuryWorkshop/wisp-js)!
 ### https://github.com/NuzProjects/Wisp/
 
+---
+
 > [!NOTE]
 > Deployment is always free, no catches. Wisp-js was modified to make setup as simple as possible.
 
