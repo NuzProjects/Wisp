@@ -11,6 +11,7 @@
 > 2 vCPU
 > 1 GB Memory
 
+---
 
 ## Deployment
 
@@ -24,7 +25,11 @@
 8. Click the domain that was created (it should be *.up.railway.app), look for Endpoint Route, and click `Copy`
 9. Visit any proxy of your choice, ex. [DogeUB](http://discord.gg/unblocking), find the Wisp configuration, select all, then hit paste.
 
+---
+
 ### Your Wisp server is now live! Your sites should now load significantly faster than before!
+
+---
 
 > [!IMPORTANT]
 > Railway free tier expires after utilizing $5 or after 30 days. To get around this, delete your account, then recreate and redeploy.
